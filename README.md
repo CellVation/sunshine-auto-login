@@ -1,6 +1,6 @@
 # Sunshine Silent Auto-Login
 
-[![GitHub topics](https://img.shields.io/github/topics/CellVation/sunshine-auto-login)](https://github.com/CellVation/sunshine-auto-login/topics)
+[![GitHub last commit](https://img.shields.io/github/last-commit/CellVation/sunshine-auto-login)](https://github.com/CellVation/sunshine-auto-login/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A lightweight installer for Windows that configures **Sunshine Game Stream** (by LizardByte) to run silently in the background on system startup and automatically handles the web browser login requirement.
@@ -24,7 +24,7 @@ A lightweight installer for Windows that configures **Sunshine Game Stream** (by
 2. Extract the folder.
 3. Double-click **`Setup.bat`**.
 4. Grant Administrative privileges when prompted.
-5. Enter your Sunshine Web UI credentials (default is usually `1` / `1`).
+5. Enter your Sunshine Web UI credentials.
 
 ## 🔍 Why is this needed?
 
