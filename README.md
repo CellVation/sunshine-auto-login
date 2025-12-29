@@ -1,5 +1,6 @@
 # Sunshine Silent Auto-Login
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/CellVation/sunshine-auto-login)](https://github.com/CellVation/sunshine-auto-login/releases/latest)
 [![GitHub last commit](https://img.shields.io/github/last-commit/CellVation/sunshine-auto-login)](https://github.com/CellVation/sunshine-auto-login/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -20,7 +21,7 @@ A lightweight installer for Windows that configures **Sunshine Game Stream** (by
 
 ## 📦 Installation
 
-1. [Download this repository](https://github.com/CellVation/sunshine-auto-login/archive/refs/heads/main.zip).
+1. **[Download the Latest Package (.zip)](https://github.com/CellVation/sunshine-auto-login/releases/latest/download/SunshineAutoLogin.zip)**
 2. Extract the folder.
 3. Double-click **`Setup.bat`**.
 4. Grant Administrative privileges when prompted.
